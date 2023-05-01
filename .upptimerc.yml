@@ -3,14 +3,34 @@ owner: flyingchewbacca # Your GitHub organization or username, where this reposi
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Backup MX
+    url: $BACKUPMX
+  - name: Files
+    url: $FILES
+  - name: gotosocial
+    url: $GOTOSOCIAL
+  - name: Landing page
+    url: $LANDINGPAGE
+  - name: Matomo
+    url: $MATOMO
+  - name: Mail
+    url: $MAIL
+  - name: PrivateBin
+    url: $PRIVATEBIN
+  - name: Share
+    url: $SHARE
+  - name: Sysmikes Blog
+    url: $SYSMIKESBLOG
+  - name: Teamspeak
+    check: "tcp-ping"
+    url: $TEAMSPEAK
+    port: 10011
+  - name: vCard
+    url: $VCARD
+  - name: Webserver
+    check: "tcp-ping"
+    url: $WEBSERVER
+    port: 443
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -27,6 +47,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  robotsText: "User-agent: * \n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
