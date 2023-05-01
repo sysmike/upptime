@@ -40,20 +40,18 @@
     "url": "$GOTOSOCIAL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gotosocial",
-    "status": "down",
-    "uptime": "5.74%",
-    "uptimeDay": "5.74%",
-    "uptimeWeek": "5.74%",
-    "uptimeMonth": "5.74%",
-    "uptimeYear": "5.74%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-05-01": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 635,
+    "timeDay": 635,
+    "timeWeek": 635,
+    "timeMonth": 635,
+    "timeYear": 635,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Landing page",
