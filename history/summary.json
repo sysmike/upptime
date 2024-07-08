@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 774,
-    "timeDay": 690,
-    "timeWeek": 704,
-    "timeMonth": 735,
-    "timeYear": 783,
+    "timeDay": 628,
+    "timeWeek": 702,
+    "timeMonth": 724,
+    "timeYear": 782,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 602,
-    "timeDay": 528,
-    "timeWeek": 535,
-    "timeMonth": 544,
+    "timeDay": 489,
+    "timeWeek": 521,
+    "timeMonth": 538,
     "timeYear": 606,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 734,
-    "timeDay": 551,
-    "timeWeek": 550,
-    "timeMonth": 561,
+    "timeDay": 663,
+    "timeWeek": 569,
+    "timeMonth": 556,
     "timeYear": 731,
     "dailyMinutesDown": {}
   },
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 696,
-    "timeDay": 554,
-    "timeWeek": 574,
-    "timeMonth": 632,
-    "timeYear": 710,
+    "timeDay": 563,
+    "timeWeek": 579,
+    "timeMonth": 620,
+    "timeYear": 709,
     "dailyMinutesDown": {}
   },
   {
@@ -83,13 +83,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1038,
-    "timeDay": 948,
-    "timeWeek": 1057,
-    "timeMonth": 1059,
+    "timeDay": 1088,
+    "timeWeek": 1079,
+    "timeMonth": 1049,
     "timeYear": 1064,
-    "dailyMinutesDown": {
-      "2023-07-09": 682
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mail",
@@ -103,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 811,
-    "timeDay": 748,
-    "timeWeek": 782,
-    "timeMonth": 796,
+    "timeDay": 798,
+    "timeWeek": 779,
+    "timeMonth": 791,
     "timeYear": 817,
     "dailyMinutesDown": {}
   },
@@ -121,13 +119,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 641,
-    "timeDay": 590,
-    "timeWeek": 613,
-    "timeMonth": 653,
+    "timeDay": 641,
+    "timeWeek": 628,
+    "timeMonth": 641,
     "timeYear": 653,
-    "dailyMinutesDown": {
-      "2023-07-09": 682
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Share",
@@ -141,13 +137,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 863,
-    "timeDay": 771,
-    "timeWeek": 816,
-    "timeMonth": 799,
+    "timeDay": 752,
+    "timeWeek": 805,
+    "timeMonth": 788,
     "timeYear": 871,
-    "dailyMinutesDown": {
-      "2023-07-09": 682
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sysmikes Blog",
@@ -161,10 +155,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 947,
-    "timeDay": 837,
-    "timeWeek": 847,
-    "timeMonth": 875,
-    "timeYear": 955,
+    "timeDay": 945,
+    "timeWeek": 880,
+    "timeMonth": 866,
+    "timeYear": 954,
     "dailyMinutesDown": {}
   },
   {
@@ -179,9 +173,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 110,
-    "timeWeek": 105,
-    "timeMonth": 109,
+    "timeDay": 109,
+    "timeWeek": 108,
+    "timeMonth": 108,
     "timeYear": 126,
     "dailyMinutesDown": {}
   },
@@ -197,9 +191,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 760,
-    "timeDay": 782,
+    "timeDay": 729,
     "timeWeek": 773,
-    "timeMonth": 737,
+    "timeMonth": 730,
     "timeYear": 771,
     "dailyMinutesDown": {}
   },
@@ -216,9 +210,9 @@
     "uptimeYear": "100.00%",
     "time": 113,
     "timeDay": 109,
-    "timeWeek": 105,
-    "timeMonth": 109,
-    "timeYear": 114,
+    "timeWeek": 108,
+    "timeMonth": 108,
+    "timeYear": 113,
     "dailyMinutesDown": {}
   }
 ]
