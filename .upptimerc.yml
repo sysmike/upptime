@@ -7,8 +7,6 @@ sites:
     url: $BACKUPMX
   - name: Files
     url: $FILES
-  - name: gotosocial
-    url: $GOTOSOCIAL
   - name: Landing page
     url: $LANDINGPAGE
   - name: Matomo
