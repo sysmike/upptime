@@ -5,30 +5,41 @@ repo: upptime # The name of this repository
 sites:
   - name: Backup MX
     url: $BACKUPMX
+    showAverageResponseTime: false
+  - name: Blog
+    url: $SBLOG
+    showAverageResponseTime: false
+  - name: CS Wiki
+    url: $CSWIKI
+    showAverageResponseTime: false
   - name: Files
     url: $FILES
-  - name: Landing page
-    url: $LANDINGPAGE
-  - name: Matomo
-    url: $MATOMO
+    showAverageResponseTime: false
   - name: Mail
     url: $MAIL
+    showAverageResponseTime: false
+  - name: Matomo
+    url: $MATOMO
+    showAverageResponseTime: false
   - name: PrivateBin
     url: $PRIVATEBIN
+    showAverageResponseTime: false
   - name: Share
     url: $SHARE
-  - name: Sysmikes Blog
-    url: $SYSMIKESBLOG
+    showAverageResponseTime: false
   - name: Teamspeak
     check: "tcp-ping"
     url: $TEAMSPEAK
     port: 10011
+    showAverageResponseTime: false
   - name: vCard
     url: $VCARD
+    showAverageResponseTime: false
   - name: Webserver
     check: "tcp-ping"
     url: $WEBSERVER
     port: 443
+    showAverageResponseTime: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
