@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "4.13%",
-    "uptimeDay": "4.13%",
-    "uptimeWeek": "4.13%",
-    "uptimeMonth": "4.13%",
-    "uptimeYear": "4.13%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 642,
     "timeDay": 642,
     "timeWeek": 642,
     "timeMonth": 642,
     "timeYear": 642,
-    "dailyMinutesDown": {
-      "2025-09-05": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CS Wiki",
