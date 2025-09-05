@@ -7,7 +7,7 @@ sites:
     url: $BACKUPMX
     showAverageResponseTime: false
   - name: Blog
-    url: $SBLOG
+    url: $BLOG
     showAverageResponseTime: false
   - name: CS Wiki
     url: $CSWIKI
