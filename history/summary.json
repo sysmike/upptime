@@ -151,19 +151,19 @@
     "url": "$TEAMSPEAK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "teamspeak",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 135,
-    "timeWeek": 132,
-    "timeMonth": 128,
+    "timeDay": 136,
+    "timeWeek": 133,
+    "timeMonth": 129,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-09-09": 0
+      "2025-09-09": 12
     }
   },
   {
