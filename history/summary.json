@@ -22,18 +22,20 @@
     "url": "$BLOG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 871,
-    "timeDay": 833,
-    "timeWeek": 920,
-    "timeMonth": 871,
-    "timeYear": 871,
-    "dailyMinutesDown": {}
+    "time": 852,
+    "timeDay": 733,
+    "timeWeek": 891,
+    "timeMonth": 852,
+    "timeYear": 852,
+    "dailyMinutesDown": {
+      "2025-09-13": 0
+    }
   },
   {
     "name": "CS Wiki",
