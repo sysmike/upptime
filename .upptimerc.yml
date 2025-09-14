@@ -15,9 +15,6 @@ sites:
   - name: CS Wiki
     url: $CSWIKI
     showAverageResponseTime: false
-  - name: Files
-    url: $FILES
-    showAverageResponseTime: false
   - name: Mail
     url: $MAIL
     showAverageResponseTime: false
