@@ -1,7 +1,7 @@
 url: $CSWIKI
-status: down
-code: 500
-responseTime: 259
-lastUpdated: 2025-11-18T13:38:43.606Z
+status: up
+code: 200
+responseTime: 650
+lastUpdated: 2025-11-18T14:44:18.549Z
 startTime: 2025-09-05T01:15:47.260Z
 generator: Upptime <https://github.com/upptime/upptime>
