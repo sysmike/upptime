@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 869,
-    "timeDay": 1148,
-    "timeWeek": 1193,
-    "timeMonth": 973,
+    "timeDay": 1028,
+    "timeWeek": 1096,
+    "timeMonth": 980,
     "timeYear": 899,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 833,
-    "timeDay": 934,
-    "timeWeek": 892,
-    "timeMonth": 827,
-    "timeYear": 833,
+    "time": 832,
+    "timeDay": 759,
+    "timeWeek": 897,
+    "timeMonth": 826,
+    "timeYear": 832,
     "dailyMinutesDown": {
       "2025-09-13": 49
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.87%",
-    "time": 792,
-    "timeDay": 844,
-    "timeWeek": 840,
-    "timeMonth": 758,
-    "timeYear": 792,
+    "time": 793,
+    "timeDay": 864,
+    "timeWeek": 873,
+    "timeMonth": 766,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2025-11-18": 151,
       "2025-10-27": 24
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.12%",
     "time": 830,
-    "timeDay": 823,
-    "timeWeek": 892,
-    "timeMonth": 865,
+    "timeDay": 865,
+    "timeWeek": 893,
+    "timeMonth": 875,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2025-10-25": 408,
@@ -96,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1159,
-    "timeDay": 1361,
-    "timeWeek": 1218,
-    "timeMonth": 1153,
-    "timeYear": 1173,
+    "time": 1158,
+    "timeDay": 1258,
+    "timeWeek": 1255,
+    "timeMonth": 1159,
+    "timeYear": 1174,
     "dailyMinutesDown": {}
   },
   {
@@ -115,9 +115,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 719,
-    "timeDay": 989,
-    "timeWeek": 829,
-    "timeMonth": 772,
+    "timeDay": 697,
+    "timeWeek": 831,
+    "timeMonth": 773,
     "timeYear": 731,
     "dailyMinutesDown": {}
   },
@@ -128,18 +128,16 @@
     "slug": "share",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 899,
-    "timeDay": 859,
-    "timeWeek": 967,
-    "timeMonth": 928,
+    "timeDay": 838,
+    "timeWeek": 989,
+    "timeMonth": 930,
     "timeYear": 916,
-    "dailyMinutesDown": {
-      "2025-12-07": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Teamspeak",
@@ -154,8 +152,8 @@
     "uptimeYear": "100.00%",
     "time": 116,
     "timeDay": 131,
-    "timeWeek": 127,
-    "timeMonth": 118,
+    "timeWeek": 132,
+    "timeMonth": 120,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2025-09-09": 12
@@ -172,11 +170,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 951,
-    "timeDay": 1613,
-    "timeWeek": 1728,
-    "timeMonth": 1621,
-    "timeYear": 1013,
+    "time": 954,
+    "timeDay": 1977,
+    "timeWeek": 1823,
+    "timeMonth": 1634,
+    "timeYear": 1016,
     "dailyMinutesDown": {}
   }
 ]
