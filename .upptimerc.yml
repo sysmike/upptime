@@ -24,9 +24,6 @@ sites:
   - name: PrivateBin
     url: $PRIVATEBIN
     showAverageResponseTime: false
-  - name: Share
-    url: $SHARE
-    showAverageResponseTime: false
   - name: Teamspeak
     check: "tcp-ping"
     url: $TEAMSPEAK
