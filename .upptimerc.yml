@@ -21,9 +21,6 @@ sites:
   - name: Matomo
     url: $MATOMO
     showAverageResponseTime: false
-  - name: PrivateBin
-    url: $PRIVATEBIN
-    showAverageResponseTime: false
   - name: Share
     url: $SHARE
     showAverageResponseTime: false
