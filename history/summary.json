@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 952,
-    "timeDay": 1159,
+    "time": 951,
+    "timeDay": 1050,
     "timeWeek": 941,
-    "timeMonth": 882,
+    "timeMonth": 884,
     "timeYear": 970,
     "dailyMinutesDown": {
       "2026-05-02": 51
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 826,
-    "timeDay": 1015,
-    "timeWeek": 872,
-    "timeMonth": 861,
+    "timeDay": 906,
+    "timeWeek": 864,
+    "timeMonth": 859,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2025-09-13": 49
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 786,
-    "timeDay": 1190,
-    "timeWeek": 816,
-    "timeMonth": 795,
+    "timeDay": 935,
+    "timeWeek": 801,
+    "timeMonth": 792,
     "timeYear": 786,
     "dailyMinutesDown": {
       "2025-10-27": 24,
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.11%",
-    "time": 855,
-    "timeDay": 1039,
-    "timeWeek": 777,
-    "timeMonth": 791,
-    "timeYear": 855,
+    "time": 854,
+    "timeDay": 887,
+    "timeWeek": 772,
+    "timeMonth": 790,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2025-10-25": 408,
       "2025-10-24": 1440,
@@ -93,22 +93,24 @@
     }
   },
   {
-    "name": "Matomo",
-    "url": "$MATOMO",
+    "name": "Umami",
+    "url": "$UMAMI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "matomo",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1199,
-    "timeDay": 1522,
-    "timeWeek": 1260,
-    "timeMonth": 1239,
-    "timeYear": 1205,
-    "dailyMinutesDown": {}
+    "slug": "umami",
+    "status": "down",
+    "uptime": "39.90%",
+    "uptimeDay": "39.90%",
+    "uptimeWeek": "39.90%",
+    "uptimeMonth": "39.90%",
+    "uptimeYear": "39.90%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-08-15": 0
+    }
   },
   {
     "name": "Share",
@@ -122,10 +124,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 845,
-    "timeDay": 632,
+    "timeDay": 644,
     "timeWeek": 661,
     "timeMonth": 657,
-    "timeYear": 816,
+    "timeYear": 815,
     "dailyMinutesDown": {
       "2025-12-10": 79
     }
@@ -142,9 +144,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 159,
-    "timeWeek": 123,
-    "timeMonth": 123,
+    "timeDay": 133,
+    "timeWeek": 121,
+    "timeMonth": 122,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-09-09": 12
@@ -161,10 +163,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1361,
-    "timeDay": 1981,
-    "timeWeek": 1582,
-    "timeMonth": 1634,
+    "time": 1362,
+    "timeDay": 1697,
+    "timeWeek": 1564,
+    "timeMonth": 1628,
     "timeYear": 1553,
     "dailyMinutesDown": {}
   }
