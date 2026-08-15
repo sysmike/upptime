@@ -98,18 +98,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "umami",
     "status": "down",
-    "uptime": "39.90%",
-    "uptimeDay": "39.90%",
-    "uptimeWeek": "39.90%",
-    "uptimeMonth": "39.90%",
-    "uptimeYear": "39.90%",
+    "uptime": "28.01%",
+    "uptimeDay": "28.01%",
+    "uptimeWeek": "28.01%",
+    "uptimeMonth": "28.01%",
+    "uptimeYear": "28.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-15": 0
+      "2026-08-15": 1
     }
   },
   {
