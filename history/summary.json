@@ -97,19 +97,19 @@
     "url": "$UMAMI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "umami",
-    "status": "down",
-    "uptime": "28.01%",
-    "uptimeDay": "28.01%",
-    "uptimeWeek": "28.01%",
-    "uptimeMonth": "28.01%",
-    "uptimeYear": "28.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.43%",
+    "uptimeDay": "1.43%",
+    "uptimeWeek": "1.43%",
+    "uptimeMonth": "1.43%",
+    "uptimeYear": "1.43%",
+    "time": 626,
+    "timeDay": 626,
+    "timeWeek": 626,
+    "timeMonth": 626,
+    "timeYear": 626,
     "dailyMinutesDown": {
-      "2026-08-15": 1
+      "2026-08-15": 26
     }
   },
   {
