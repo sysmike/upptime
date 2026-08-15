@@ -18,8 +18,8 @@ sites:
   - name: Mail
     url: $MAIL
     showAverageResponseTime: false
-  - name: Matomo
-    url: $MATOMO
+  - name: Umami
+    url: $UMAMI
     showAverageResponseTime: false
   - name: Share
     url: $SHARE
@@ -49,6 +49,7 @@ status-website:
     - title: UptimeRobot
       href: https://stats.uptimerobot.com/NloRtN8Ak
   robotsText: "User-agent: * \n Disallow: /"
+  customHeadHtml: <script defer src="https://analytics.sysmike.net/script.js" data-website-id="5ebd4fed-6fb5-40eb-8d4f-65b2b0a3f897"></script>
   
 workflowSchedule:
   graphs: "0 0 * * *"
