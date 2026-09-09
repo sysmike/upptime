@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 963,
-    "timeDay": 2565,
-    "timeWeek": 1358,
-    "timeMonth": 1104,
+    "timeDay": 898,
+    "timeWeek": 1126,
+    "timeMonth": 1107,
     "timeYear": 962,
     "dailyMinutesDown": {
       "2026-05-02": 51
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 830,
-    "timeDay": 829,
-    "timeWeek": 1056,
-    "timeMonth": 881,
+    "timeDay": 840,
+    "timeWeek": 853,
+    "timeMonth": 883,
     "timeYear": 829,
     "dailyMinutesDown": {
       "2025-09-13": 49
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 787,
-    "timeDay": 704,
-    "timeWeek": 853,
-    "timeMonth": 804,
-    "timeYear": 786,
+    "timeDay": 796,
+    "timeWeek": 848,
+    "timeMonth": 809,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2025-10-27": 24,
       "2025-11-18": 151,
@@ -75,10 +75,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.11%",
     "time": 860,
-    "timeDay": 2886,
-    "timeWeek": 1323,
-    "timeMonth": 900,
-    "timeYear": 852,
+    "timeDay": 809,
+    "timeWeek": 1100,
+    "timeMonth": 903,
+    "timeYear": 851,
     "dailyMinutesDown": {
       "2025-10-25": 408,
       "2025-10-24": 1440,
@@ -98,14 +98,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "umami",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 729,
-    "timeDay": 500,
-    "timeWeek": 717,
+    "timeDay": 727,
+    "timeWeek": 700,
     "timeMonth": 729,
     "timeYear": 729,
     "dailyMinutesDown": {
@@ -124,13 +124,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 111,
-    "timeWeek": 126,
-    "timeMonth": 122,
+    "timeDay": 121,
+    "timeWeek": 121,
+    "timeMonth": 123,
     "timeYear": 120,
-    "dailyMinutesDown": {
-      "2025-09-09": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "vCard",
@@ -143,11 +141,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1408,
-    "timeDay": 2902,
-    "timeWeek": 1748,
-    "timeMonth": 1678,
-    "timeYear": 1589,
+    "time": 1409,
+    "timeDay": 1602,
+    "timeWeek": 1722,
+    "timeMonth": 1692,
+    "timeYear": 1588,
     "dailyMinutesDown": {}
   }
 ]
